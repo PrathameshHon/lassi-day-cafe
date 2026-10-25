@@ -77,7 +77,7 @@ Or on github.com → **New repository** → *"uploading an existing folder"* →
 ## 🔑 Staff access
 
 1. Open the website → click **Staff Login** (navbar) or **Staff** (footer).
-2. Enter the PIN — default is `1234`.
+2. Enter the PIN — default is ****
 3. Change the PIN immediately in **Settings → Staff PIN** on the device used at the cafe.
 
 | Tab | What it does |
